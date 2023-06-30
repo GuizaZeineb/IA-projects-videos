@@ -17,7 +17,6 @@ P8-Conception d'une voiture autonome
 Computer vision (Image classification and Semantic segmentation): OpenCV,
 Feature extraction (ORB, SIFT) and Visual BoW, Data augmentation, CNN, Unet architecture,
 TensorFlow, Keras, Azure Machine Learning, REST API with Flask, WebApp with Streamlit
-https://drive.google.com/file/d/11y1A1fnZ7V4DjLzxSx0ZOpDx-4mSjf9m/view?usp=sharing
 
 P9- Application mobile de recommandation de contenu
 MobileApp for content recommendation: Content-based filtering, Collaborative filtering, Azure Function, NodeJS
